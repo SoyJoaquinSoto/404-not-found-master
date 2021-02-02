@@ -36,7 +36,13 @@
 ## Overview
 ![screenshot](/assets/demo.png)
 
+This project was made using the Bootstrap framework to mimic how a real life project would be made.
 
+The creation of this page helped me materialize the knowledge that I had about Bootstrap and also made me learn to use Github Pages for the deployment of the project.
+
+It was fun doing this project and to play around with the spacing of the elements.
+
+I would suggest following my actions and try to make this kinds of projects to improve our knowledge.
 
 ### Built With
 
