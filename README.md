@@ -34,8 +34,9 @@
 <!-- OVERVIEW -->
 
 ## Overview
-
-![screenshot](/assets/demo.png)
+<div style="border: 2px solid black;">
+   ![screenshot](/assets/demo.png)
+</div>
 
 
 
